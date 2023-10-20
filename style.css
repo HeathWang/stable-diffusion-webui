@@ -1069,7 +1069,7 @@ div.accordions > div.input-accordion.input-accordion-open{
 /* sticky right hand columns */
 
 #img2img_results, #txt2img_results, #extras_results {
-    position: sticky;
+/*     position: sticky; */
     top: 0.5em;
 }
 
